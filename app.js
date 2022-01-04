@@ -52,7 +52,7 @@ dragArea.addEventListener("drop", (e) => {
                                 <span class="ml-2"> ${type}</span>
                             </li>
                              <li class="d-flex ">
-                                <span>Type : </span>
+                                <span>Size : </span>
                                 <span class="ml-2"> ${size} Bytes</span>
                             </li>
                         </ul>
