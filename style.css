@@ -1,0 +1,25 @@
+.main-box{
+    background: ww;
+    padding: 20px;
+    border: 1px dashed rgb(98, 150, 247);
+    border-width: 2px!important;
+    border-radius:8px;
+    box-shadow: 5px 10px 20px 0px #d8d8d896;
+    }
+    .icon>i{
+        color:rgb(14, 54, 128);
+        background:rgb(255, 255, 255);
+        font-size:80px;
+    }
+    .tx{
+        color:rgb(41, 1, 151);
+    }
+    .upload-btn{
+        background:rgb(0, 132, 255);
+        color:white;
+        
+    }
+    .active{
+        border:1px solid dashed orangered!important;
+        color: orangered!important;
+    }
